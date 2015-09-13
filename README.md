@@ -8,5 +8,5 @@ Here's some links to Drupal projects we maintain, have contributed heavily to or
 
 * [Advanced User](https://www.drupal.org/project/advuser) - Took this beast over from the original maintainer...
 
-* [Open AdStream](https://www.drupal.org/project/openadstream) - Worked with a client and the mod maintainer to get _[chrisryan's](https://github.com/chrisryan)_ original D7 port up on d.o., adding support for OAS' latest schema in the process.
+* [Open AdStream](https://www.drupal.org/project/openadstream) - Worked with a client and the mod maintainer to get [chrisryan's original D7 port](https://github.com/chrisryan/openadstream) up on d.o., adding support for OAS' latest schema in the process.
 
