@@ -1,10 +1,12 @@
 # Drupal projects
 
-Here's some links to Drupal projects we've contributed or help maintain on d.o.
+Here's some links to Drupal projects we maintain, have contributed heavily to or just help iterate on d.o.
 
 * [ngApp](https://www.drupal.org/project/ngapp) - This module turns your site in to an AngularJS application. Its goal is to help you start using Angular on your site very quickly, optionally using popular contrib modules for retrieving JSON data from local RESTful endpoints.
 
+* [Content API](https://www.drupal.org/project/contentapi) - This was kind of a "game changer" a few years back. Still some pretty awesome stuff, all in all.
+
 * [Advanced User](https://www.drupal.org/project/advuser) - Took this beast over from the original maintainer...
 
-* [Open AdStream](https://www.drupal.org/project/openadstream) - Worked with a client and the mod maintainer to get _[chrisryan's](https://github.com/chrisryan)_ original D7 port up on d.o.
+* [Open AdStream](https://www.drupal.org/project/openadstream) - Worked with a client and the mod maintainer to get _[chrisryan's](https://github.com/chrisryan)_ original D7 port up on d.o., adding support for OAS latest schema in the process.
 
